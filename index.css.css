@@ -1,0 +1,67 @@
+.foto{
+    width: 200px;
+    border-radius: 10px;
+    
+}
+
+body{
+   background-color:rgba(114, 168, 250, 0.726);
+}
+
+.titulo{
+    color: blue;
+    text-align: center;
+    font-size: 50px; 
+}
+
+.paragrafo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 20px;
+    /**fonte foi almentada para um melhor vizualizar o paragrafp**/
+}
+
+.lista{
+    list-style:ou;
+}
+
+.hobbies1{
+    margin: 10px;
+}
+
+.hobbies2{
+    margin: 10px;
+}
+
+.hobbies3{
+    margin: 10px;
+}
+
+.tabela{
+    background-color: blue;
+    border: 5px solid cadetblue ;
+}
+
+.link:hover{
+   color: red;
+}
+
+.botao{
+   border: 5px solid  rgb(1, 253, 85);
+   margin: 20px 40px;
+   padding: 10px 20px;
+   border-radius: 500px;
+   background-color: rgba(126, 252, 0, 0.479);
+   color: blue;
+   font-weight: 700px;
+   right: 40px;
+}
+
+
+  #mensagem {
+            display: none; 
+            margin-top: 10px;
+            font-size: 18px;
+            color: #070707;
+            margin: 25px;
+            
+        }
